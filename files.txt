@@ -1,0 +1,11 @@
+LATEST
+README.txt
+files.txt
+index.html
+notes
+rclone.log
+archive/signloop-v1.0.1.tar.gz
+archive/signloop-v1.0.1.zip
+current/signloop-v1.0/porteus/modules/signloop-base-1.0.000.xzm
+current/signloop-v1.0/porteus/modules/signloop-delta-1.0.001.xzm
+current/signloop-v1.0/boot/syslinux/porteus.cfg
